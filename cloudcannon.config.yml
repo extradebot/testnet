@@ -1,0 +1,84 @@
+collections_config:
+  pages:
+    path: ''
+    name: Pages
+    icon: wysiwyg
+  lang:
+    path: lang
+    name: Lang
+    icon: lan
+  modules_authorize_net:
+    path: Modules/AuthorizeNet
+    name: Modules Authorize Net
+    icon: autorenew
+  modules_cashmaal:
+    path: Modules/Cashmaal
+    name: Modules Cashmaal
+    icon: donut_small
+  modules_coinbase:
+    path: Modules/Coinbase
+    name: Modules Coinbase
+    icon: collections
+  modules_coingate:
+    path: Modules/Coingate
+    name: Modules Coingate
+    icon: mode_comment
+  modules_crypto_loan:
+    path: Modules/CryptoLoan
+    name: Modules Crypto Loan
+    icon: description
+  modules_crypto_trading:
+    path: Modules/CryptoTrading
+    name: Modules Crypto Trading
+    icon: model_training
+  modules_flutterwave:
+    path: Modules/Flutterwave
+    name: Modules Flutterwave
+    icon: mode_of_travel
+  modules_kyc:
+    path: Modules/KYC
+    name: Modules Kyc
+    icon: desk
+  modules_manual_deposit:
+    path: Modules/ManualDeposit
+    name: Modules Manual Deposit
+    icon: fiber_manual_record
+  modules_monnify:
+    path: Modules/Monnify
+    name: Modules Monnify
+    icon: mobile_friendly
+  modules_nft:
+    path: Modules/Nft
+    name: Modules Nft
+    icon: co_present
+  modules_p2p_transfer:
+    path: Modules/P2pTransfer
+    name: Modules P2p Transfer
+    icon: no_transfer
+  modules_pay_pal:
+    path: Modules/PayPal
+    name: Modules Pay Pal
+    icon: donut_small
+  modules_razor_pay:
+    path: Modules/RazorPay
+    name: Modules Razor Pay
+    icon: folder_copy
+  modules_stripe:
+    path: Modules/Stripe
+    name: Modules Stripe
+    icon: more_time
+  modules_support_ticket:
+    path: Modules/SupportTicket
+    name: Modules Support Ticket
+    icon: contact_support
+  public_assets_scripts:
+    path: public/assets/scripts
+    name: Public Assets Scripts
+    icon: subscript
+paths:
+  static: ''
+  uploads: uploads
+timezone: Africa/Lagos
+markdown:
+  engine: commonmark
+  options: {}
